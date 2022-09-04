@@ -1,0 +1,31 @@
+body {background-color: #efe4b0;}
+@font-face { 
+    font-family: Champignon; 
+    src: url('Champignon.otf'); 
+}
+h1 {
+    font-size: 10em; 
+    text-align: center;
+}
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.font {
+    font-family: Champignon, cursive; 
+    font-weight: lighter; 
+    color: aqua;
+}
+a:hover {
+    color:blueviolet
+}
+a{font-size: 5em;}
+.menu a {
+    float: none;
+    padding: 14px 16px;
+
+}
+.menu {align-items: center;}
