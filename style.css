@@ -1,7 +1,7 @@
 body {background-color: #efe4b0;}
 @font-face { 
     font-family: Champignon; 
-    src: url('Champignon.otf'); 
+    src: url('font/Champignon.otf'); 
 }
 h1 {
     font-size: 10em; 
